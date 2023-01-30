@@ -7,13 +7,13 @@
 
 - 📫 How to reach me **eddiesan.cui@gmail.com**
 
-- ⚡ Fun fact **I think I am funny. he he he**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/eddiesancui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/eddiesancui" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20274345/eddiesan-cui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20274345/eddiesan-cui" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/eddiesan.cui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eddiesan.cui" height="30" width="40" /></a>
+<a href="https://codepen.io/eddiesan.cui@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eddiesan.cui@gmail.com" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/eddiesan.cui@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eddiesan.cui@gmail.com" height="30" width="40" /></a>
+<a href="https://fb.com/eddiesan30@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eddiesan30@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/eddiesan.cui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eddiesan.cui" height="30" width="40" /></a>
 <a href="https://discord.gg/Yrra#5265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yrra#5265" height="30" width="40" /></a>
 </p>
