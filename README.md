@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eddiesancui
 - 👀 I’m interested in learning Front-end web development.
-- 🌱 I’m currently learning HTML, CSS, and Javascript.
+- 🌱 I’m currently learning HTML, CSS, Javascript and React.js
 - 💞️ I’m looking to collaborate with anyone.
 
 <!---
