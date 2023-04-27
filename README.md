@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **eddiesan.cui@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://codepen.io/eddiesan.cui@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eddiesan.cui@gmail.com" height="30" width="40" /></a>
