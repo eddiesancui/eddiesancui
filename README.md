@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript and React.js**
 
-- 💞️ I’m looking to collaborate with **anyone**
+- 💼 I’m looking for **QA Engineer** or **Web Development** Job
 
 - 📫 How to reach me **eddiesan.cui@gmail.com**
 
