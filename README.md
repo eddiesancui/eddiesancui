@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eddie San Cui</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript and React.js**
+- 🌱 I’m currently learning **HTML, CSS, Javascript and React.js**.
 
-- 💼 I’m looking for **QA Engineer** or **Web Development** Job
+- 💼 I’m looking for a **Software Engineer** or **QA Engineer** Job position.
 
 - 📫 How to reach me **eddiesan.cui@gmail.com**
 
