@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddie San Cui</h1>
 <h3 align="center">Software QA Engineer</h3>
 
-- 🌱 I’m currently learning **Python - Automation**.
+- 🌱 I’m currently learning **Python - Automation, MERN Stack**.
 
 - 💼 I’m looking for a **Software QA Engineer** Job position.
 
