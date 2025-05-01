@@ -48,8 +48,8 @@ Collection of test plans, test cases, and bug reports for web/mobile apps from r
 
 ## 📫 Connect With Me
 
-- 📧 Email: [eddiesancc@gmail.com](mailto:eddiesancc@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/eddiesan-cui](https://www.linkedin.com/in/eddiesan-cui)
+- 📧 Email: <a href="mailto:eddiesancc@gmail.com" target="_blank">eddiesancc@gmail.com</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/eddiesan-cui/" target="_blank">linkedin.com/in/eddiesan-cui</a>
 
 ---
 
