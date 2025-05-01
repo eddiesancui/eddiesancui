@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eddie San Cui</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software QA Engineer</h3>
 
 - 🌱 I’m currently learning **Python - Automation, MERN Stack**.
 
-- 💼 I’m looking for a **Software Engineer** Job position.
+- 💼 I’m looking for a **Software QA Engineer** Job position.
 
-- 📫 How to reach me **eddiesan.cui@gmail.com**
+- 📫 How to reach me **eddiesan.cc@gmail.com**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
