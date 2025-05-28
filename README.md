@@ -20,8 +20,8 @@ I’m a passionate and meticulous **Software QA Tester** with hands-on experienc
 
 - **Testing Types**: Functional, Regression, Cross-Browser, UI/UX, Exploratory, Usability
 - **Platforms**: Web, Android, iOS
-- **Automation**: Python, Selenium (basic Cucumber)
-- **Test Management**: JIRA, Mantis, SpiraTeam
+- **Automation**: Selenium (Python)
+- **Test Management**: JIRA, Mantis, SpiraTeam, Azure DevOps
 - **Documentation**: Test Plans, Test Scenarios, Test Reports
 - **CI/CD**: (Learning) GitHub Actions, Jenkins
 - **Version Control**: Git, GitHub
