@@ -30,10 +30,10 @@ I’m a passionate and meticulous **Software QA Tester** with hands-on experienc
 
 ## 📁 Featured Projects (Work In Progress)
 
-### 🔹 [selenium-python-banking-tests](https://github.com/yourusername/sample-future-project)
-Automation test scripts simulating login and transaction scenarios for a core banking system using Python + Selenium.
+### 🔹 [selenium-python-login-testing-with-params](https://github.com/eddiesancui/LoginTestsWithParams)
+Automation test scripts simulating login with 3 different credentials to test using Python + Selenium.
 
-### 🔹 [qa-manual-test-suites](https://github.com/yourusername/qa-manual-test-suites/sample-future-project)
+### 🔹 [selenium-python-login-testing-data-driven](https://github.com/yourusername/qa-automation-test-suites/sample-future-project)
 Collection of test plans, test cases, and bug reports for web/mobile apps from real-world experience.
 
 ---
