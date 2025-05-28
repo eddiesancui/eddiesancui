@@ -53,4 +53,5 @@ Automated test scripts using Python and Selenium to simulate login, with test da
 
 ---
 
-> "Test early, test often, and test smart. Quality is everyone’s responsibility."
+> "A tester's job is to tell you what you don’t want to hear."
+> — Gerald M. Weinberg
