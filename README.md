@@ -33,7 +33,7 @@ I’m a passionate and meticulous **Software QA Tester** with hands-on experienc
 ### 🔹 [selenium-python-login-testing-with-params](https://github.com/eddiesancui/LoginTestsWithParams)
 Automated test scripts using Python and Selenium to simulate login with three different credentials.
 
-### 🔹 [selenium-python-login-testing-data-driven](https://github.com/yourusername/qa-automation-test-suites/sample-future-project)
+### 🔹 [selenium-python-login-testing-data-driven](https://github.com/eddiesancui/LoginTestDataDriven)
 Automated test scripts using Python and Selenium to simulate login, with test data sourced from an Excel file. (planning to do)
 
 ---
