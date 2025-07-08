@@ -25,7 +25,7 @@ I’m a passionate and meticulous **Software QA Tester** with hands-on experienc
 - **Documentation**: Test Plans, Test Scenarios, Test Reports
 - **CI/CD**: (Learning) GitHub Actions, Jenkins
 - **Version Control**: Git, GitHub
-- **Testiing Environment**: Virtual Desktop Infrastructure (VDI), SIT, DEV
+- **Testing Environment**: Virtual Desktop Infrastructure (VDI), SIT, DEV
 ---
 
 ## 📁 Featured Projects (Work In Progress)
