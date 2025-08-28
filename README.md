@@ -31,10 +31,10 @@ I’m a passionate and meticulous **Software QA Tester** with hands-on experienc
 ## 📁 Featured Projects (Work In Progress)
 
 ### 🔹 [selenium-pom-automation](https://github.com/eddiesancui/selenium-pom-automation)
-selenium-pom-automation is a Python-based web automation project that follows the Page Object Model (POM) design pattern using Selenium WebDriver. --- this needs udpate
+selenium-pom-automation is a Python-based web automation project that follows the Page Object Model (POM) design pattern using Selenium WebDriver. --- this needs update
 
 ### 🔹 [selenium-python-login-testing-data-driven](https://github.com/eddiesancui/LoginTestDataDriven)
-Automated test scripts using Python and Selenium to simulate login, with test data sourced from an Excel file. --- this needs udpate
+Automated test scripts using Python and Selenium to simulate login, with test data sourced from an Excel file. --- this needs update
 
 ### 🔹 [selenium-python-login-testing-with-params](https://github.com/eddiesancui/LoginWithParams)
 Automated test scripts using Python and Selenium to simulate login with three different credentials.
