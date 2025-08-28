@@ -36,7 +36,7 @@ selenium-pom-automation is a Python-based web automation project that follows th
 ### 🔹 [selenium-python-login-testing-data-driven](https://github.com/eddiesancui/LoginTestDataDriven)
 Automated test scripts using Python and Selenium to simulate login, with test data sourced from an Excel file. (planning to do)
 
-### 🔹 [selenium-python-login-testing-with-params](https://github.com/eddiesancui/LoginTestsWithParams)
+### 🔹 [selenium-python-login-testing-with-params](https://github.com/eddiesancui/LoginWithParams)
 Automated test scripts using Python and Selenium to simulate login with three different credentials.
 
 
