@@ -11,7 +11,7 @@ I’m a passionate and meticulous **Software QA Tester** with hands-on experienc
 - 🔍 Currently transitioning from manual to automation testing using **Python** and **Selenium**
 - 💼 Experienced in testing banking and financial systems
 - 🧪 Comfortable preparing **test plans**, **test scripts**, and **detailed defect reports**
-- 🛠️ Skilled in tools like **JIRA**, **Mantis**, **SpiraTeam** and **Azure DevOps**
+- 🛠️ Skilled in tools like **JIRA**, **Mantis**, **SpiraTeam**, **FIGMA** and **Azure DevOps**
 - 🤝 Active participant in **Triage meetings** and **Daily Scrum meeting**
 
 ---
