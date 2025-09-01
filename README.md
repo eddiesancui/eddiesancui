@@ -59,5 +59,4 @@ Automated test scripts using Python and Selenium to simulate login, with test da
 
 ---
 
-> "A tester's job is to tell you what you don’t want to hear."
-> — Gerald M. Weinberg
+> "Time is Gold."
