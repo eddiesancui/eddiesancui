@@ -23,7 +23,7 @@ I’m a passionate and meticulous **Software QA Tester** with hands-on experienc
 - **Automation**: Selenium (Python)
 - **Test Management**: JIRA, Mantis, SpiraTeam, Azure DevOps
 - **Documentation**: Test Plans, Test Scenarios, Test Reports
-- **CI/CD**: (Learning) GitHub Actions, Jenkins
+- **CI/CD**: (Learning) GitHub Actions, Jenkins and API Testing (Pytest)
 - **Version Control**: Git, GitHub
 - **Testing Environment**: Virtual Desktop Infrastructure (VDI), SIT, DEV and UAT
 ---
